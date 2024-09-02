@@ -131,3 +131,5 @@ psql -U postgres < universe.sql
 psql -U postgres < universe.sql
 psql -U postgres < universe.sql
 psql --username=freecodecamp --dbname=postgres
+git status
+git add .
